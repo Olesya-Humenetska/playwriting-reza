@@ -36,7 +36,8 @@ test.describe.parallel('Test Registration', async () => {
     });
     const TODO_ITEMS = [
         'Olesya1hh+1',
-        'olesya1hh+1@gmail.com'
+        'olesya1hh+1@gmail.com',
+        'olesya1hh+1@gmail.com',
     ];
     // test.only('Terms', async ({ page }) => {
     //     const reseller = await page.locator(".header-top .header-link");
